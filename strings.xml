@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Electrobook</string>
+    <string name="tittle">Электронная книга</string>
+    <string name="load">Загрузить</string>
+    <string name="texthint">Сюда загрузится текст</string>
+</resources>
